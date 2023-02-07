@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "11123, 305419896, 1234567, 316, 828",
+      "setup": "javac BitwiseMethods.java",
+      "run": "java BitwiseMethods",
+      "input": "11123\r\n305419896\r\n1234567\r\n316\r\n828",
+      "output": "The number 11123 has 9 ones in its binary representation\r\nThe number 305419896 comprises the RGBA values of 18, 52, 86, and 120 respectively\r\nThe number 1234567 is odd\r\nThe sum of the numbers 316 and 828 is 1144",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
