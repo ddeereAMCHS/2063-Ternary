@@ -13,7 +13,7 @@
 - Print the letter grade for the given number grade
 - Print the two words in alphabetical order
 - For the two integers given, print whether they are even or odd
-- For the two integers given, print whether the first word is greater than, less than, or equal to the second number
+- For the two integers given, print whether the first number is greater than, less than, or equal to the second number
 
 ***Example Input:***\
 85\
