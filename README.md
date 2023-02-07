@@ -2,8 +2,9 @@
 
 ## Due: Fri 2/10 at 11:59 PM
 
+### DO NOT USE ANY IF STATEMENTS IN THIS ASSIGNMENT
+
 - Create a program called `Ternary.java`
-- DO NOT USE ANY IF STATEMENTS IN THIS ASSIGNMENT
 - Prompt the user for a number grade
 - Prompt the user for a word
 - Prompt the user for another word
