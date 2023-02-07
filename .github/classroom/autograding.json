@@ -1,11 +1,31 @@
 {
   "tests": [
     {
-      "name": "11123, 305419896, 1234567, 316, 828",
-      "setup": "javac BitwiseMethods.java",
-      "run": "java BitwiseMethods",
-      "input": "11123\r\n305419896\r\n1234567\r\n316\r\n828",
-      "output": "The number 11123 has 9 ones in its binary representation\r\nThe number 305419896 comprises the RGBA values of 18, 52, 86, and 120 respectively\r\nThe number 1234567 is odd\r\nThe sum of the numbers 316 and 828 is 1144",
+      "name": "Test 1",
+      "setup": "javac Ternary.java",
+      "run": "java Ternary",
+      "input": "85\r\napple\r\ndog\r\n31\r\n28",
+      "output": "Letter grade: B\r\napple, dog\r\n31 is odd\r\n28 is even\r\n31 is greater than 28",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Test 2",
+      "setup": "javac Ternary.java",
+      "run": "java Ternary",
+      "input": "75\r\ndog\r\napple\r\n28\r\n31",
+      "output": "Letter grade: C\r\napple, dog\r\n28 is even\r\n31 is odd\r\n28 is less than 31",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Test 2",
+      "setup": "javac Ternary.java",
+      "run": "java Ternary",
+      "input": "70\r\ndog\r\ndog\r\n13\r\n13",
+      "output": "Letter grade: D\r\ndog, dog\r\n13 is odd\r\n13 is odd\r\n13 is equal to 13",
       "comparison": "included",
       "timeout": 10,
       "points": null
