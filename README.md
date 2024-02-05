@@ -1,6 +1,6 @@
 # Ternary
 
-## Due: Fri 2/10 at 11:59 PM
+## Due: Wed 2/7 at 11:59 PM
 
 ### DO NOT USE ANY IF STATEMENTS IN THIS ASSIGNMENT
 
