@@ -21,7 +21,7 @@
       "points": null
     },
     {
-      "name": "Test 2",
+      "name": "Test 3",
       "setup": "javac Ternary.java",
       "run": "java Ternary",
       "input": "70\r\ndog\r\ndog\r\n13\r\n13",
